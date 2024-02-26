@@ -1,0 +1,19 @@
+td a.active {
+    background-color: #89b8a6;
+    color: white;
+}
+
+td a.active {
+    background-color: #f84a4a;
+    color: white;
+}
+
+td a:hover:not(.active) {
+    background-color: #555555;
+    color: white;
+}
+
+#jieder {
+    color: rgb(0, 0, 0);
+    text-align: left;
+}

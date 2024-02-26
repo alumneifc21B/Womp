@@ -1,0 +1,24 @@
+td a.active {
+    background-color: #288f5c00;
+    color: white;
+}
+body {
+    background-image: url(/imagenes/9\ Typography\ Apps\ and\ Tools\ for\ Web\ Designers.png);
+    color: #fff;
+}
+
+td a.active {
+    background-color: #ffffff5b;
+    color: white;
+}
+
+#tabla {
+    -webkit-table-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+td a {
+    display: block;
+    color: #fff;
+    padding: 8px 16px;
+    text-decoration: none;
+}

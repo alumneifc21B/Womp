@@ -1,0 +1,8 @@
+td a.active {
+    background-color: #69bb89;
+    color: white;
+}
+
+#ejemplos {
+    max-width: 1200px;
+}

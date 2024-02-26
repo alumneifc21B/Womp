@@ -1,0 +1,42 @@
+h1 {
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+}
+
+h2 {
+  margin: 1%;
+}
+.imga {
+  display: flex;
+  align-items: center;
+}
+
+.imagen {
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  margin: 2%;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+#index {
+  list-style: none;
+  font-size: 18px;
+  width: 587px;
+  background-color: #f1f1f1;
+  margin: 50px auto;
+  padding: 20px;
+  border-top: 3px #4aa4f8 solid;
+  border-bottom: 3px #4aa4f8 solid;
+}
+
+body {
+  background-image: url(/imagenes/13722099_5328478.png);
+  background-size: contain;
+}
+
+.texto {
+  font-size: 16px;
+  margin: 0;
+}

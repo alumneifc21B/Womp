@@ -1,0 +1,24 @@
+td a.active {
+    background-color: #ee86b673;
+    color: #fff;
+}
+
+#definicion {
+    font-family:'Times New Roman' ;
+    font-size: 17px ; 
+    text-align:justify ;
+    margin: 1%;
+  }
+h2 {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#aspectos {
+    font-size: 18px;
+    border-left: 4px #ee86b6 solid;
+    list-style:square;
+}
+
+p {
+    max-width: 900px;
+}
